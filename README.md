@@ -61,7 +61,7 @@ It is designed to support **educators, academic advisors, and administrators** i
 - Average exit survey score (student satisfaction).
 
 📷 *Screenshot:*  
-
+![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/cb429b291166d3bda33851ccc5644e3a4445dfa3/images/engagement%20and%20completion.png)
 
 ---
 
