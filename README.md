@@ -84,6 +84,8 @@ It is designed to support **educators, academic advisors, and administrators** i
    - Nationality
 3. Hover over visual elements for detailed tooltips.
 
+![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/8717b2e0392e264bd09832073a8f594dbf23f45d/images/instructions.png)
+
 ---
 
 ## 📈 Data Source
