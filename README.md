@@ -1,4 +1,4 @@
-# 🎓 Student Academic Performance Dashboard – Power BI
+# 🎓 Student Academic Performance Analysis – Power BI
 
 ![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/0f2b6c64047bf1566ace4b930afa7e16cce26218/images/title%20page.png)
 
@@ -27,7 +27,6 @@ It is designed to support **educators, academic advisors, and administrators** i
 - Graduation status: Graduated, In Progress, Dropped.
 - **Dynamic filters**: Department, Program, Semester, Course Code, Enrollment Year, Nationality.
 
-📷 *Screenshot:* 
 ![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/3d50f58a8195ab18b9630b14660dd13ac4ed9d7a/images/student%20overview.png)
 
 ---
@@ -37,8 +36,7 @@ It is designed to support **educators, academic advisors, and administrators** i
 - Year-over-year GPA trends by cohort.
 - Backlog counts per department (academic challenges).
 - Average GPA by department.
-
-📷 *Screenshot:*  
+ 
 ![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/8cf9188c4d30614d96e62c52ffed981fcd640171/images/Academic%20performance.png)
 
 ---
@@ -49,7 +47,6 @@ It is designed to support **educators, academic advisors, and administrators** i
 - Performance trends across semesters.
 - Academic standing by department (Good, Probation, Warning).
 
-📷 *Screenshot:*  
 ![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/ae216715e9429f35a34b2c31d5372fe65bf12ed0/images/courses%20and%20grades.png)
 
 ---
@@ -60,7 +57,6 @@ It is designed to support **educators, academic advisors, and administrators** i
 - Extracurricular participation rates.
 - Average exit survey score (student satisfaction).
 
-📷 *Screenshot:*  
 ![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/cb429b291166d3bda33851ccc5644e3a4445dfa3/images/engagement%20and%20completion.png)
 
 ---
