@@ -28,7 +28,7 @@ It is designed to support **educators, academic advisors, and administrators** i
 - **Dynamic filters**: Department, Program, Semester, Course Code, Enrollment Year, Nationality.
 
 📷 *Screenshot:* 
-
+![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/3d50f58a8195ab18b9630b14660dd13ac4ed9d7a/images/student%20overview.png)
 
 ---
 
