@@ -50,7 +50,7 @@ It is designed to support **educators, academic advisors, and administrators** i
 - Academic standing by department (Good, Probation, Warning).
 
 📷 *Screenshot:*  
-
+![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/ae216715e9429f35a34b2c31d5372fe65bf12ed0/images/courses%20and%20grades.png)
 
 ---
 
