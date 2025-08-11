@@ -39,7 +39,7 @@ It is designed to support **educators, academic advisors, and administrators** i
 - Average GPA by department.
 
 📷 *Screenshot:*  
-
+![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/8cf9188c4d30614d96e62c52ffed981fcd640171/images/Academic%20performance.png)
 
 ---
 
