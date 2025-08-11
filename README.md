@@ -1,6 +1,6 @@
 # 🎓 Student Academic Performance Dashboard – Power BI
 
-
+![Image_Alt](https://github.com/khanuzma-analytics/Student-Academic-Performance-Analysis-Power-BI/blob/0f2b6c64047bf1566ace4b930afa7e16cce26218/images/title%20page.png)
 
 ## 📌 Project Overview
 This interactive **Power BI** dashboard provides a comprehensive analysis of student data, including demographics, academic trends, course performance, and engagement metrics.  
